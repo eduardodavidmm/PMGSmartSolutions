@@ -1,2 +1,2 @@
 # PMGSmartSolutions
-PMGSmartSolutions Vol 2
+PMG Smart Solutions
